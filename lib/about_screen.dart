@@ -32,7 +32,7 @@ class AboutPage extends StatelessWidget {
                     _buildListItem('Address', 'Rajawali Street'),
                     _buildListItem('Hobby', 'Games, Sleep, Repeat'),
                     _buildListItem('Skills', 'Flutter, Dart, Java'),
-                    _buildListItem('Lecture', 'Ciputra University'),
+                    _buildListItem('College', 'Ciputra University'),
                     _buildListItem('Major', 'Full Stack Development'),
                     _buildListItem('Generation', '2022'),
                     _buildListItem('Mobile', '082190026622'),
